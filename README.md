@@ -16,7 +16,7 @@ Getting my hands on my own kit felt like receiving my official acceptance letter
 ---
 
 ## 🛠️ My Setup
-- **Board:** ESP32
+- **Board:** ESP32 Dev
 - **IDE:** Arduino IDE
 - **Language:** C++
 
