@@ -6,11 +6,12 @@ Our school syllabus was barely a drop in the bucket, and I wanted to make actual
 
 My kit arrived just 3 days ago! I immediately went to code—except my 10th grade used code blocks, and electronics lessons use C++. 
 
-I don't own a fancy lab with a big cauldron in the middle or pricey shitting courses, but I'm doing everything I can with the time I have and what I have—relying on our good teacher YouTube, reading raw documentation, pure trial and error, and occasional help from Google like "wtf why is my LED blank?". Magic is everywhere if you look close enough, so I'm going to learn it no matter what.
+I don't own a fancy lab with a big cauldron in the middle or pricey shitting courses, but I'm doing everything I can with the little time i have and with what i have—relying on our good teacher YouTube, reading raw documentation, pure trial and error, and occasional help from Google like "wtf why is my LED blank?". Magic is everywhere if you look close enough, so I'm going to learn it no matter what.
 
-Now I'm in 11th grade, drowning in intense entrance exam prep and schoolwork. I don't get to do this every day—my main window is a few precious hours on Sundays. But off the record? Sometimes I sleep late just to write C++ in the Arduino IDE and be a wizard (because what if my microcontroller walks away on its own?).
+Right now, I'm in 11th grade, drowning in intense entrance exam prep and schoolwork. I don't get to do this every day—my main window is a few precious hours on Sundays. But off the record? Sometimes I sleep late just to write C++ in the Arduino IDE and be a wizard (because what if my microcontroller just walks away on its own?).
 
-Getting my hands on my own kit feels like receiving my official acceptance letter to Hogwarts. This repo is where I keep all my code, notes, and evidence of my wizardry.
+Getting my hands on my own kit felt like receiving my official acceptance letter to Hogwarts. This repo is where I keep all my code, notes, and evidence of my wizardry.(RAW)
+(limited edition)
 
 ---
 
