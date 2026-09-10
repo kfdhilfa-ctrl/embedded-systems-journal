@@ -16,5 +16,4 @@ void loop() { //run in loop
   }else{
     digitalWrite(ledpin,LOW);
   }
-  delay(1000);
 }
